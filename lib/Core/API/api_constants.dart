@@ -1,0 +1,14 @@
+const baseUrl='https://maps.googleapis.com/maps/api/';
+const endPointAutoComplete="place/autocomplete/json";
+const endPointPlaceDetails="place/details/json";
+const endPointDirectionsApi="directions/json";
+const baseUrlSekaa="https://sekka-server-abdos-projects-b554478b.vercel.app/";
+const endPointCreatePost="create-post";
+const endPointGetLostAndFoundPosts="get-posts";
+const endPointGetComments="get-post-comments";
+const endPointDeletePost="delete-post";
+const endPointUpdatePost="update-post";
+const endPointUpdateComment="update-comment";
+const endPointDeleteComment="delete-comment";
+const endPointCreateComment="create-comment";
+const endPointSendMessage="send-message";
